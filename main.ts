@@ -2,7 +2,10 @@
  *
  * Created by: Mr. Coxall
  * Created on: Sep 2020
- * This program ...
+ * This program controls a servo.
 */
 
-basic.showString('Hello, World!')
+// variables
+
+// setup
+basic.showIcon(IconNames.Happy)
